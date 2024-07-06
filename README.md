@@ -1,5 +1,5 @@
 <h1>Felipe Gomez</h1>
-<h2>Python Developer</h2>
+<h2>Python Developer</h2><h3>Using Django</h3>
 
 - 👋 Hi, I’m @felipegtech
 - 👀 I’m interested in Lea
