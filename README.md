@@ -1,4 +1,4 @@
-<h1>Felipe Gomez | 24 | Software Development Student</h1>
+<h1>Felipe Gomez | 24 | Software Engineering Student</h1>
 <br>
 <h2>Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> Tools : </h3>
