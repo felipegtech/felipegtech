@@ -2,6 +2,18 @@
 <br>
 <h2> Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
+<style>
+        .inline-content {
+            display: flex;
+            align-items: center;
+        }
+        .inline-content span {
+            margin-right: 10px; /* Adjust the margin as needed */
+        }
+        .inline-content img {
+            margin-left: 10px; /* Adjust the margin as needed */
+        }
+    </style>
  <p>
         <span>Programming Languages : Python | R |</span>
         <span>
