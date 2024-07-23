@@ -55,7 +55,12 @@
     </p>
 
 <h4><b>Back end :</b> Django</h4>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logo style="width:128px;height:128px;margin-right: 20px;">
+<p>
+ <span>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logo style="width:128px;height:128px;margin-right: 20px;">
+ </span>
+</p>
+
 
 
 - 👋 Hi, I’m @felipegtech
