@@ -1,7 +1,7 @@
 <h1>Felipe Gomez</h1>
 <br>
 <h2> Junior Data Engineer | Data Analytics | Data Science </h2>
-<h3> <b>Programming languages : </b></h3><br>
+<h3> <b>Programming languages : Python | R </b></h3><br>
  <p>
         <span>
             <img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;">
@@ -34,10 +34,6 @@
         </span>
     </p>
 
-
-
-
-<im
 
 
 - 👋 Hi, I’m @felipegtech
