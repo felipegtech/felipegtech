@@ -42,8 +42,7 @@
 
 <h2><b>Web development</b></h2>
 <h3>web development stack :</h3>
-<h4>Front end :</h4>
-<p>HTML5, CSS, Javascript, React, Bootstrap5, Sass</p>
+<h4><b>Front end :</b> HTML5, CSS, Javascript, React, Bootstrap5, Sass</h4>
  <p>
         <span>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html-icon" style="width:128px;height:128px;margin-right: 20px;">
@@ -55,6 +54,8 @@
         </span>
     </p>
 
+<h4><b>Back end :</b> Django</h4>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logo style="width:128px;height:128px;margin-right: 20px;">
 
 
 - 👋 Hi, I’m @felipegtech
