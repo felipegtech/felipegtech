@@ -57,7 +57,7 @@
 <h4><b>Back end :</b> Django</h4>
 <p>
  <span>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logo style="width:128px;height:128px;margin-right: 20px;">
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logostyle" style="width:228px;height:128px; margin-left: 10px;">
  </span>
 </p>
 
