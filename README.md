@@ -1,11 +1,11 @@
-<h1>Felipe Gomez | 24 | Software Engineering Student</h1>
+<h1>Felipe Gomez</h1>
 <br>
-<h2>Junior Data Engineer | Data Analytics | Data Science </h2>
+<h2>  | Junior Python Python Developer | Software Engineering StudentJunior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
 <P>Programming Languages : Python | R | Javascript</P>
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;">
 <img src="https://www.svgrepo.com/show/183637/html5.svg" alt="HTML5 icon" style="width:128px;height:128px;">
-<h2>Python Developer</h2><h3>Using Django</h3>
+
 
 - 👋 Hi, I’m @felipegtech
 - 👀 I’m interested in Lea
