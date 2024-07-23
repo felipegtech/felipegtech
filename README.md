@@ -15,6 +15,8 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPePf0eI9lrP20Ym-P0v-_B2yB6IHRoQiWw&s" alt="Pandas-icon" style="width:228px;height:158px;">
             <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qePzd2m_uIPvsozXYh89CQ.png" alt="Numpy-icon" style="width:328px;height:158px;">
             <img src="https://i.sstatic.net/0Go0T.png" alt="Matplotlib" style="width:228px;height:158px;">
+          <img src="https://i2.wp.com/sthua.edu.sg/wp-content/uploads/2018/03/scikit-learn-logo.png?resize=1024%2C397&ssl=1" alt="skit-learn" style="width:228px;height:158px;">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1024px-TensorFlow_logo.svg.png" alt="TensorFlow" style="width:228px;height:158px;">
         </span>
     </p>
 
