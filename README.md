@@ -2,7 +2,6 @@
 <br>
 <h2> Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
-<style>
  <p>
         <span>Programming Languages : Python | R |</span>
         <span>
