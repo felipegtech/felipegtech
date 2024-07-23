@@ -8,12 +8,23 @@
             <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="R-studio" style="width:228px;height:128px; margin-left: 10px;">
         </span>
     </p>
-<h3> <b>Database: postgresql</h3><br>
+
+<h3> <b>Data Science and Analytics Tools : Pandas | Numpy | Matplotlib | scikit-learn | TensorFlow</h3><br>
 <p>
         <span>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgree-icon" style="width:128px;height:128px;">
         </span>
     </p>
+
+    
+<h3> <b>SQL Databases: postgresql</h3><br>
+<p>
+        <span>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgree-icon" style="width:128px;height:128px;">
+        </span>
+    </p>
+
+
 
 
 
