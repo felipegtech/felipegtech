@@ -27,6 +27,7 @@
         <span>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html-icon" style="width:128px;height:128px;">
             <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="Css-icon" style="width:228px;height:128px; margin-left: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Js.icon" style="width:128px;height:128px;"> 
         </span>
     </p>
 
