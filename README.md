@@ -3,6 +3,7 @@
 <h2>Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
 <P>Programming Languages : Python | R | Javascript</P>
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;">
 <img src="https://www.svgrepo.com/show/183637/html5.svg" alt="HTML5 icon" style="width:128px;height:128px;">
 <h2>Python Developer</h2><h3>Using Django</h3>
 
