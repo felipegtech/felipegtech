@@ -4,7 +4,7 @@
 <h3> <b>Programming languages : </b></h3><br>
  <p>
         <span>
-            <img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;">
+            <img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;"><br>
             <img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="R-studio" style="width:228px;height:128px; margin-left: 10px;">
         </span>
     </p>
