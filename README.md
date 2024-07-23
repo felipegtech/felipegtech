@@ -12,7 +12,7 @@
 <h3> <b>Data Science and Analytics Tools : Pandas | Numpy | Matplotlib | scikit-learn | TensorFlow</h3><br>
 <p>
         <span>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgree-icon" style="width:128px;height:128px;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPePf0eI9lrP20Ym-P0v-_B2yB6IHRoQiWw&s" alt="Pandas-icon" style="width:128px;height:128px;">
         </span>
     </p>
 
