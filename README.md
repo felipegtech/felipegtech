@@ -29,7 +29,7 @@
             <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="Css-icon" style="width:228px;height:128px; margin-left: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Js.icon" style="width:128px;height:128px;"><br>
             <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="react-logo" style="width:128px;height:128px;">
-            <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap-logo" style="width:128px;height:128px;"><br>
+            <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap-logo" style="width:128px;height:128px;">
             <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="sass-logo" style="width:128px;height:128px;">
         </span>
     </p>
