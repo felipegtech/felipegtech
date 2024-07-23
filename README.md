@@ -13,6 +13,7 @@
 <p>
         <span>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPePf0eI9lrP20Ym-P0v-_B2yB6IHRoQiWw&s" alt="Pandas-icon" style="width:228px;height:158px;">
+            <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*qePzd2m_uIPvsozXYh89CQ.png" alt="Numpy-icon" style="width:228px;height:158px;">
         </span>
     </p>
 
