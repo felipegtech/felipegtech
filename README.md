@@ -25,7 +25,7 @@
 <p>HTML5, CSS, Javascript, React, Bootstrap5, Sass</p>
  <p>
         <span>
-            <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html-icon" style="width:128px;height:128px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html-icon" style="width:128px;height:128px;">
             <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="Css-icon" style="width:228px;height:128px; margin-left: 10px;">
         </span>
     </p>
@@ -33,7 +33,7 @@
 
 
 
-<img src="https://www.svgrepo.com/show/183637/html5.svg" alt="HTML5 icon" style="width:128px;height:128px;">
+<im
 
 
 - 👋 Hi, I’m @felipegtech
