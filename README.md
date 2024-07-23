@@ -3,9 +3,10 @@
 <h2> Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
 <P>Programming Languages : Python | R |</P>
-<img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;">
-<img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="R-studio" style="width:228px;height:128px;">
-<h3><b>Databases: </b><i>postgresql</i></h3>
+<p><img src="https://www.svgrepo.com/show/452091/python.svg" alt="PY-icon" style="width:128px;height:128px;"</p>
+<p><img src="https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png" alt="R-studio" style="width:228px;height:128px;"></p>
+
+<
 
 
 
