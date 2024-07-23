@@ -1,5 +1,8 @@
-<h1>Felipe Gomez</h1>
-<h2>Junior Data Engineer | Data Analytics | </h2>
+<h1>Felipe Gomez | 24 | Software Development Student</h1>
+<br>
+<h2>Junior Data Engineer | Data Analytics | Data Science </h2>
+<h3> Tools : </h3>
+<P>Programming Languages : Python | R | Javascript</P>
 <h2>Python Developer</h2><h3>Using Django</h3>
 
 - 👋 Hi, I’m @felipegtech
