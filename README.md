@@ -3,7 +3,8 @@
 <h2>Junior Data Engineer | Data Analytics | Data Science </h2>
 <h3> <b>Tools : </b></h3>
 <P>Programming Languages : Python | R | Javascript</P>
-<img src="C:\Users\fgomezd1\Downloads\html-5-svgrepo-com (1).svg" alt="HTML5 icon" style="width:128px;height:128px;">
+<img src="![image](https://github.com/user-attachments/assets/cff6bfda-1ba3-4ee5-b085-345ffb8238fc)
+" alt="HTML5 icon" style="width:128px;height:128px;">
 <h2>Python Developer</h2><h3>Using Django</h3>
 
 - 👋 Hi, I’m @felipegtech
