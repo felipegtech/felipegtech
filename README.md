@@ -1,7 +1,7 @@
 <h1>Felipe Gomez | 24 | Software Engineering Student</h1>
 <br>
 <h2>Junior Data Engineer | Data Analytics | Data Science </h2>
-<h3> Tools : </h3>
+<h3> <b>Tools : </b></h3>
 <P>Programming Languages : Python | R | Javascript</P>
 <h2>Python Developer</h2><h3>Using Django</h3>
 
