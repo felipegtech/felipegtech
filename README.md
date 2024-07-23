@@ -23,6 +23,12 @@
 <h3>web development stack :</h3>
 <h4>Front end :</h4>
 <p>HTML5, CSS, Javascript, React, Bootstrap5, Sass</p>
+ <p>
+        <span>
+            <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html-icon" style="width:128px;height:128px;">
+            <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="Css-icon" style="width:228px;height:128px; margin-left: 10px;">
+        </span>
+    </p>
 
 
 
