@@ -21,7 +21,7 @@
     </p>
 
     
-<h3> <b>SQL Databases: postgresql</h3><br>
+<h3> <b>SQL Databases: postgresql</b></h3><br>
 <p>
         <span>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Postgree-icon" style="width:128px;height:128px;">
