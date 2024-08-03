@@ -1,6 +1,6 @@
 <h1>Felipe Gomez</h1>
 <br>
-<h2> Junior Data Engineer | Data Analytics | Data Science </h2>
+<h2> Jr. Web developer | Data Analytics |  </h2>
 <h3> <b>Programming languages : Python | R </b></h3><br>
  <p>
         <span>
