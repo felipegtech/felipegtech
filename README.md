@@ -29,17 +29,6 @@
     </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
 <h2><b>Web development</b></h2>
 <h3>web development stack :</h3>
 <h4><b>Front end :</b> HTML5, CSS, Javascript, React, Bootstrap5, Sass</h4>
@@ -52,19 +41,9 @@
             <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap-logo" style="width:128px;height:128px;">
             <img src="https://www.svgrepo.com/show/354310/sass.svg" alt="sass-logo" style="width:128px;height:128px;">
         </span>
-    </p>
 
-<h4><b>Back end :</b> Django</h4>
-<p>
- <span>
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django-logostyle" style="width:228px;height:128px; margin-left: 10px;">
- </span>
-</p>
-
-
-
-- 👋 Hi, I’m @felipegtech
-- 👀 I’m interested in Lea
+- 👋 Hi, I’m Felipe 
+- 👀 I’m interested in Learning Data Engineering
 - 🌱 I’m currently learning studying Computer Science or Ingenieria de Sistemas as LATAM call it
 - 💞️ I’m looking to collaborate on multiple tech world revoloution projects
 - 📫 How to reach me felipe.gdata.ia@gmail.com
