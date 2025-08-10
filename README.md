@@ -3,57 +3,56 @@
   <img src="https://your-banner-image-url.com" alt="Cloud Security & DevSecOps" width="100%">
 </p>
 
-<h1 align="center">☁️🔐 Felipe – Cloud Security & DevSecOps Engineer in Progress</h1>
+<h1 align="center">☁️🔐 Felipe – Aspiring Cloud Security & DevSecOps Engineer</h1>
 <p align="center">
-  Building secure, automated, and scalable cloud infrastructures 🚀
+  Designing and automating secure, resilient, and compliant cloud infrastructures 🚀
 </p>
 
 ---
 
 ## 🛡 About Me
-I'm Felipe — on a fast-track journey to master **Cloud Security** and **DevSecOps**.  
-I focus on **protecting cloud environments**, **automating security checks**, and **deploying infrastructure that’s both resilient and secure**.
+I'm Felipe, driven to become a leading **Cloud Security Engineer** and **DevSecOps Specialist**.  
+I specialize in **securing cloud environments end-to-end**, **automating security and compliance workflows**, and **building scalable infrastructure with a security-first mindset**.
 
-- 🌎 Interested in AWS, security automation, and cloud-native security tools  
-- 💡 Currently learning AWS, Terraform, and CI/CD with built-in security gates  
-- 📜 Goal: Become a **Cloud Security Engineer / DevSecOps Specialist** within 12 months
-
----
-
-## 🗺 Learning Roadmap 2025
-| Month | Focus | Tools & Certifications |
-|-------|-------|------------------------|
-| 1     | **Cloud Fundamentals** | AWS Cloud Practitioner |
-| 2–3   | **Architect & Deploy** | AWS Solutions Architect Associate |
-| 4     | **Cybersecurity Core** | CompTIA Security+ or AWS Security Specialty |
-| 5–6   | **Automation & DevSecOps** | Terraform, GitHub Actions, Docker Security |
-| 7+    | **Specialization** | AWS Security Specialty + Advanced Projects |
+- 🌎 Passionate about AWS security, Infrastructure as Code (IaC) hardening, and cloud-native threat detection  
+- 💡 Deepening expertise in automated security scanning, identity & access management, and secure CI/CD pipelines  
+- 📜 Target: Secure a full-time Cloud Security/DevSecOps role within 12 months, contributing to robust cloud defenses
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Skills |
-|---------|-------------|--------|
-| 🔐 **AWS Secure S3 Setup** | Automated creation of encrypted S3 buckets with logging, IAM policies, and compliance checks | AWS CLI, Bash, IAM, S3, Security Policies |
-| 📊 **Cloud Security Monitoring** | Real-time alerts for suspicious activity via GuardDuty, CloudTrail, and Lambda automation | AWS Lambda, GuardDuty, EventBridge |
-| ⚙️ **DevSecOps Pipeline** | CI/CD pipeline with Snyk and Trivy scans before deployment | GitHub Actions, Docker, IaC Security |
-| ☁️ **Infrastructure as Code** | Deploy secure VPC, EC2, and RDS with Terraform | Terraform, AWS, Networking |
+## 🗺 2025 Learning & Certification Roadmap
+| Month | Focus Area                  | Tools & Certifications                         |
+|-------|----------------------------|-----------------------------------------------|
+| 1     | Cloud Security Fundamentals | AWS Cloud Practitioner + Security Basics      |
+| 2–3   | Cloud Architecture & Security| AWS Solutions Architect Associate + IAM mastery |
+| 4     | Security Foundations         | CompTIA Security+ or AWS Security Specialty   |
+| 5–6   | DevSecOps & Automation       | Terraform, GitHub Actions, Container Security (Snyk, Trivy) |
+| 7+    | Advanced Cloud Security      | AWS Security Specialty + Real-world Security Projects |
 
 ---
 
-## 📚 Current Skills
-- **Cloud Platforms**: AWS (EC2, S3, IAM, VPC, GuardDuty)
-- **Security Tools**: AWS Inspector, Trivy, Snyk
-- **Infrastructure as Code**: Terraform
-- **Automation**: Bash, AWS CLI
-- **DevSecOps**: GitHub Actions, Container Security
+## 📂 Key Projects
+| Project                 | Description                                                          | Skills & Tools                         |
+|-------------------------|----------------------------------------------------------------------|--------------------------------------|
+| 🔐 **Automated Secure S3 Buckets** | Implemented encryption, access policies, logging, and compliance checks automatically | AWS CLI, IAM, S3, Bash, Security Policies |
+| 📊 **Cloud Threat Detection Dashboard** | Integrated GuardDuty, CloudTrail logs, and Lambda for real-time anomaly alerts | AWS Lambda, GuardDuty, EventBridge, Python |
+| ⚙️ **Secure CI/CD Pipeline**          | Built end-to-end pipeline with automated vulnerability scanning and policy enforcement | GitHub Actions, Docker, Snyk, Trivy |
+| ☁️ **IaC Hardened Infrastructure**   | Deployed secure VPC, EC2, and RDS resources with Terraform, implementing least privilege principles | Terraform, AWS, Networking, Security Best Practices |
 
 ---
 
-## 📈 Career Goals
-- Build **3–5 security-focused projects** for my GitHub portfolio  
-- Contribute to **open-source security tools**  
-- Land a **Cloud Security Engineer / DevSecOps** role in 2025  
+## 📚 Technical Skills
+- **Cloud Platforms & Security**: AWS (IAM, GuardDuty, CloudTrail, Inspector, Security Hub)  
+- **Infrastructure as Code & Automation**: Terraform, AWS CLI, Bash scripting  
+- **DevSecOps Tools**: GitHub Actions, Snyk, Trivy, Docker Security, Container Scanning  
+- **Security Concepts**: Identity & Access Management (IAM), Encryption, Monitoring & Logging, Compliance Frameworks
+
+---
+
+## 🎯 Career Objectives
+- Develop a portfolio of **5+ security-centric cloud projects** showcasing hands-on expertise  
+- Contribute to **open-source security tooling** or security-focused automation scripts  
+- Secure a role as a **Cloud Security Engineer** or **DevSecOps Specialist** by end of 2025
 
 ---
 
