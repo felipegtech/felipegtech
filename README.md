@@ -1,61 +1,66 @@
 <!-- Banner / Hero Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Felipe - Software Engineer" width="100%">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Felipe - Cybersecurity & Cloud Engineer" width="100%">
 </p>
 
 <!-- Title & Tagline -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50">Felipe</span></h1>
-<h3 align="center">🚀 Software Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 AI/ML Explorer</h3>
+<h3 align="center">🔒 Cybersecurity | ☁️ Cloud Security | 🌐 Networking | 🤖 AI/ML Security</h3>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-AWS_Security-FF9900?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Networking-0066CC?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux_Security-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Machine_Learning-102230?logo=python&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Third-year CS student** with a mission to reach **top 1% technical excellence**.
-- 💼 Aspiring **Cloud / DevOps Engineer** passionate about automation & scalability.
-- 🤖 Diving deep into **AI & Machine Learning** for impactful projects.
-- 🛠 Currently mastering **AWS + Bash automation** with hands-on, real-world use cases.
-- 🌍 Fluent in **English** & **Spanish**, adaptable in multicultural teams.
+- 🎓 **Third-year CS student** aiming to specialize in **Cybersecurity & Cloud Security**.
+- 🛡 Passionate about **threat detection, incident response, and secure infrastructure design**.
+- 🌐 Skilled in **network design, hardening, and monitoring**.
+- 🤖 Exploring **ML for cybersecurity applications** like anomaly detection & threat intelligence.
+- ☁️ Building secure **AWS and multi-cloud architectures** with IaC.
+- 🌍 Fluent in English & Spanish, thriving in international teams.
 
 ---
 
-## 🏆 Career Highlights
-- **Automated Deployments:** Built a [CI/CD pipeline](https://github.com/yourusername/devops-pipeline) deploying to AWS EC2 in **<3 mins**.
-- **Performance Optimization:** Improved Python ETL runtime by **68%** on datasets with 1M+ records.
-- **Open Source:** Contributor to [OpenAI Python SDK](https://github.com/openai/openai-python).
-- **Public Speaking:** Delivered *"From Bash to the Cloud"* at university tech meet-up.
+## 🏆 Security & Networking Highlights
+- **Built:** Automated AWS Security compliance pipeline with GuardDuty, Security Hub, and Lambda alerts.
+- **Hardened:** Linux servers & Docker containers to CIS benchmarks.
+- **Deployed:** Secure VPN + IDS/IPS for a simulated enterprise network.
+- **Developed:** ML-based phishing URL detector with 96% accuracy.
+- **Certified:** AWS Cloud Practitioner & CompTIA Security+ *(in progress)*.
 
 ---
 
 ## 📂 Featured Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Cloud-TODO** | Full-stack TODO app deployed on AWS with Terraform & CI/CD | AWS, Terraform, React, Node.js | [Repo](https://github.com/yourusername/cloud-todo) |
-| **AI-Interview-Bot** | Django AI bot for mock interview practice | Django, OpenAI API, Docker | [Repo](https://github.com/yourusername/ai-interview-bot) |
-| **Data-Insights** | Statistical analysis of traffic accident severity & frequency | Python, Pandas, Matplotlib | [Repo](https://github.com/yourusername/data-insights) |
+| **SecureCloud-TODO** | Encrypted full-stack TODO app deployed on AWS with WAF & Shield | AWS, Terraform, React, Node.js | [Repo](https://github.com/yourusername/securecloud-todo) |
+| **AI-Phishing-Detector** | ML model detecting phishing URLs & emails | Python, Scikit-learn, Flask | [Repo](https://github.com/yourusername/ai-phishing-detector) |
+| **Enterprise-NetLab** | Virtual enterprise network with VLANs, VPN, and IDS/IPS | Cisco Packet Tracer, pfSense, Snort | [Repo](https://github.com/yourusername/enterprise-netlab) |
+| **Traffic-Insights** | Traffic accident severity analysis for public safety | Python, Pandas, Matplotlib | [Repo](https://github.com/yourusername/data-insights) |
 
 ---
 
 ## 📜 Certifications
 - 🥇 **AWS Certified Cloud Practitioner**
-- 🥈 **Linux Foundation Certified SysAdmin**
-- 🎯 **Docker Certified Associate** *(in progress)*
+- 🛡 **CompTIA Security+** *(in progress)*
+- ☁️ **AWS Security Specialty** *(planned)*
+- 🖧 **Cisco CCNA** *(in progress)*
 
 ---
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Automating AWS EC2 Setup with Bash](https://yourblog.com/aws-ec2-bash)
-- [📦 Kubernetes for Beginners — Explained Simply](https://yourblog.com/kubernetes-guide)
-- [💡 My Journey into DevOps — Lessons Learned](https://yourblog.com/devops-journey)
+- [🔒 Hardening AWS with GuardDuty & Security Hub](https://yourblog.com/aws-security-hardening)
+- [🖧 Network Segmentation & Zero Trust Basics](https://yourblog.com/network-segmentation)
+- [🤖 Using ML to Detect Cyber Threats](https://yourblog.com/ml-cybersecurity)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -70,4 +75,4 @@
 
 ---
 
-> 💡 **Pro Tip:** Keep your top 3 repositories pinned so recruiters see them instantly.
+> 💡 **Tip:** Pin your most security-focused projects on GitHub so recruiters instantly see your specialization.
