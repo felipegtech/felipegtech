@@ -1,37 +1,47 @@
-<!-- Banner / Hero Image -->
-<p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Felipe - Cybersecurity & Cloud Engineer" width="100%">
-</p>
+# 🚀 Felipe – Future Cloud Security & DevSecOps Engineer
 
-<!-- Title & Tagline -->
-<h1 align="center">Hi there 👋, I'm <span style="color:#4CAF50">Felipe</span></h1>
-<h3 align="center">🔒 Cybersecurity | ☁️ Cloud Security | 🌐 Networking | 🤖 AI/ML Security</h3>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS_Security-FF9900?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Networking-0066CC?logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux_Security-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Machine_Learning-102230?logo=python&logoColor=white" />
-</p>
+👋 Hi! I’m Felipe — passionate about **Cloud Infrastructure**, **Cybersecurity**, and building **secure, automated systems** that scale.  
+I’m on a fast-track journey to specialize in **Cloud Security & DevSecOps**, protecting modern infrastructures while keeping them fast, reliable, and secure.
 
 ---
 
-## 🚀 About Me
-- 🎓 **Third-year CS student** aiming to specialize in **Cybersecurity & Cloud Security**.
-- 🛡 Passionate about **threat detection, incident response, and secure infrastructure design**.
-- 🌐 Skilled in **network design, hardening, and monitoring**.
-- 🤖 Exploring **ML for cybersecurity applications** like anomaly detection & threat intelligence.
-- ☁️ Building secure **AWS and multi-cloud architectures** with IaC.
-- 🌍 Fluent in English & Spanish, thriving in international teams.
+## 🛡️ My Focus Areas
+- **Cloud Platforms**: AWS (Security, Networking, Automation)
+- **Security Engineering**: Threat detection, vulnerability management, compliance
+- **DevSecOps**: CI/CD with security gates, infrastructure as code, container security
+- **Automation**: Bash, Python, Terraform, AWS CLI
 
 ---
 
-## 🏆 Security & Networking Highlights
-- **Built:** Automated AWS Security compliance pipeline with GuardDuty, Security Hub, and Lambda alerts.
-- **Hardened:** Linux servers & Docker containers to CIS benchmarks.
+## 📚 Current Learning Roadmap
+| Month | Goal | Tools/Certs |
+|-------|------|-------------|
+| 1     | AWS Fundamentals | AWS Cloud Practitioner |
+| 2–3   | Deploy & Secure Infrastructure | AWS Solutions Architect Associate |
+| 4     | Core Cybersecurity | CompTIA Security+ |
+| 5–6   | DevSecOps & Automation | Terraform, GitHub Actions, Docker Security |
+| 7+    | Specialization | AWS Security Specialty |
+
+---
+
+## 🧠 Projects I'm Building
+- **🔐 AWS Secure S3 Bucket**: Configured with encryption, IAM policies, logging, automated checks
+- **📊 Cloud Security Monitoring Dashboard**: Using AWS CloudWatch, GuardDuty & Lambda alerts
+- **⚙️ DevSecOps Pipeline**: CI/CD pipeline with automated security scans before deployment
+
+---
+
+## 📈 Next Steps
+- Build real-world security automation projects
+- Contribute to open-source security tools
+- Network with Cloud & Security professionals
+
+---
+
+💡 *If you’re hiring or collaborating on cloud security or DevSecOps projects, let’s connect!*  
+📩 **Email**: youremail@example.com  
+🌐 **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/yourprofile)
+
 - **Deployed:** Secure VPN + IDS/IPS for a simulated enterprise network.
 - **Developed:** ML-based phishing URL detector with 96% accuracy.
 - **Certified:** AWS Cloud Practitioner & CompTIA Security+ *(in progress)*.
