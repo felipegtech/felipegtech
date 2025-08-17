@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Cloud Security & DevSecOps" width="100%">
+
 </p>
 
 <h1 align="center">☁️🔐 Felipe – Aspiring Cloud Security & DevSecOps Engineer</h1>
