@@ -9,7 +9,7 @@
     <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
       <img src="https://img.shields.io/twitter/follow/YOUR_HANDLE?logo=twitter&style=for-the-badge" alt="Twitter" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/felipegomezd/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **React Native and Go**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, Python, and Cloud Architecture**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **fegoda26@gmail.com**
 - ⚡ Fun fact: **I can center a div!**
 
 ### 💻 Tech Stack
