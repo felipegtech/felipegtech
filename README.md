@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90" width="100%"/>
   
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME" target="_blank">Your Name</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/felipegtech" target="_blank">Felipe</a>! 👋</h1>
 
   <h3>🚀 Full Stack Developer | 🥑 Open Source Enthusiast | ☕ Coffee Lover</h3>
 
