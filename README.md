@@ -36,3 +36,41 @@ const felipe = {
   loves: ["Automation", "Clean Architectures", "High Availability"],
   currentlyLearning: "Distributed systems & advanced cloud infra"
 };
+
+<br> <!-- ============================= --> <!-- TECH STACK WITH ICON GRID --> <!-- ============================= -->
+🧰 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,aws,docker,linux,git,github,vscode,terraform,js,react,mysql,postgres&perline=6" /> </p> <br> <!-- ========================= --> <!-- GITHUB STATS --> <!-- ========================= -->
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </p> <br> <!-- ========================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================= -->
+⚡ Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" /> </p> <br> <!-- ========================= --> <!-- COOL FOOTER --> <!-- ========================= --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=flat-square" /> </p> <p align="center"> <strong>“Code. Deploy. Break things. Learn. Repeat.”</strong> </p>
+
+---
+
+# ✅ **Important — Replace this**
+Make sure to swap:
+
+
+
+YOUR_USERNAME
+
+
+with your actual GitHub username in **3 places**:
+- GitHub stats
+- Top languages
+- Activity graph
+- Streak stats
+
+---
+
+# ⚡ Want an even MORE hacker-theme version?
+I can generate:
+
+- Matrix digital rain version  
+- Terminal-only green theme  
+- Black-on-black ultra minimal  
+- Animated emojis version  
+- A version with personal logo or QR code  
+
+Just tell me the vibe you want.
+
