@@ -9,7 +9,7 @@
   <h3>Backend Developer focused on scalable systems and APIs</h3>
 
   <p>
-    I build backend applications using Python, FastAPI, and PostgreSQL.  
+    I build backend applications using Python, FastAPI, and PostgreSQL.<br/>
     Focused on clean architecture, performance, and scalable systems.
   </p>
 
@@ -46,16 +46,16 @@
 
   <hr/>
 
-  <!-- Contact -->
+  <!-- Contact (FIXED - NO BREAKING ISSUES) -->
   <h3>🔗 Connect with me</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/felipegomezd/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/felipegomezd/" target="_blank">
+      LinkedIn
     </a>
-
+    &nbsp;|&nbsp;
     <a href="mailto:fegoda26@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      Email Me
     </a>
   </p>
 
