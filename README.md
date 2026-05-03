@@ -9,8 +9,8 @@
   <h3>Backend Developer focused on scalable systems and APIs</h3>
 
   <p>
-    I build backend applications using Python, FastAPI, and PostgreSQL.<br/>
-    Focused on clean architecture, performance, and scalable systems.
+    I build backend systems using Python, FastAPI, and PostgreSQL.<br/>
+    I focus on clean architecture, performance, and scalable API design.
   </p>
 
   <hr/>
@@ -33,27 +33,13 @@
 
   <hr/>
 
-  <!-- GitHub stats -->
-  <h3>📊 GitHub Performance</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-  </p>
-
-  <hr/>
-
-  <!-- Contact with ICONS -->
+  <!-- Contact -->
   <h3>🔗 Connect with me</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/felipegomezd/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
   </p>
 
   <p>
