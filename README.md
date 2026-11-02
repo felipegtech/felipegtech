@@ -1,72 +1,68 @@
 <div align="center">
 
-  <!-- Typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=520&lines=Felipe+Gómez+Daza;Backend+Developer+%7C+Python+%7C+FastAPI;Building+scalable+APIs+and+AI-powered+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=640&lines=Felipe+G%C3%B3mez+Daza;Software+%26+Cloud%2FDevOps+Engineer;Backend+Systems+%E2%80%A2+Linux+%26+Containers+%E2%80%A2+Distributed+APIs" alt="Typing SVG" />
 
-  <br/>
-
-  <!-- Intro -->
-  <h3>Backend Developer focused on scalable systems, cloud & AI integrations</h3>
+  <h3>Software Engineer focused on Backend Architecture, Cloud/DevOps & Distributed Systems</h3>
 
   <p>
-    I build backend systems using Python, FastAPI, PostgreSQL and modern cloud infrastructure.<br/>
-    I focus on clean architecture, performance, and AI-integrated APIs.
+    Building reliable backend services, containerized cloud architectures, and automated CI/CD pipelines.<br/>
+    Experienced across <strong>Python (FastAPI)</strong>, <strong>TypeScript (NestJS / Next.js / Nuxt)</strong>, <strong>Linux / C Systems Programming</strong>, and <strong>Docker / AWS</strong>.
   </p>
 
-  <hr/>
+  <p>
+    <a href="https://www.linkedin.com/in/felipegd99/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Felipe_G%C3%B3mez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:fegoda26@gmail.com">
+      <img src="https://img.shields.io/badge/Email-fegoda26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-  <!-- Core backend stack -->
-  <h3>Backend & Core Technologies</h3>
+</div>
 
+---
+
+### Featured Engineering Projects
+
+| Project | Architecture & Focus | Tech Stack |
+| :--- | :--- | :--- |
+| **[monitoring-control-system](https://github.com/felipegtech/monitoring-control-system)** | Distributed telemetry & control server built from scratch with POSIX/Berkeley TCP sockets, custom application-layer protocol, Linux PAM authentication, and multi-client concurrency. | `C` `Linux` `TCP Sockets` `PAM` `Python` `Makefile` |
+| **[Todo-REST-API](https://github.com/felipegtech/Todo-REST-API)** | Production-structured REST API with layered repository/service architecture, relational persistence, external API integration, Docker Compose orchestration, and automated `pytest` suites. | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest` |
+| **[fullstack-weather-app](https://github.com/felipegtech/fullstack-weather-app)** | Containerized full-stack weather & alerting platform combining a FastAPI backend, Next.js TypeScript dashboard, PostgreSQL persistence, JWT auth, and Telegram Bot notifications. | `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker Compose` |
+| **[courseprojects](https://github.com/felipegtech/courseprojects)** | Full-stack web engineering monorepo featuring modular NestJS backend services, Dockerfiles, and reactive Vue/TypeScript frontends. | `TypeScript` `NestJS` `Vue.js` `Docker` `Node.js` |
+| **[DinoRun-Jack](https://github.com/felipegtech/DinoRun-Jack)** | Low-level 2D game engineered in the Jack object-oriented language targeting the Nand2Tetris Hack Virtual Machine architecture. | `Jack` `Hack VM` `Systems Architecture` |
+
+---
+
+### Technical Stack
+
+<div align="center">
+
+  **Cloud, DevOps & Systems**
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </p>
+
+  **Backend & Data Engineering**
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   </p>
 
-  <!-- Cloud & DevOps -->
-  <h3>Cloud & DevOps</h3>
-
+  **Frontend & AI Integrations**
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </p>
-
-  <!-- AI / LLM stack -->
-  <h3>AI & LLM Integrations</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anthropic-Claude-6B4EAB?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/LLM%20Agents-AI%20Systems-FF6F00?style=for-the-badge" />
-  </p>
-
-  <!-- Frontend (lightweight mention) -->
-  <h3>Frontend (Support Layer)</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </p>
-
-  <hr/>
-
-  <!-- Contact -->
-  <h3>🔗 Connect with me</h3>
-
-  <p>
-    <a href="https://www.linkedin.com/in/felipegd99/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    <a href="mailto:fegoda26@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js_%2F_Nuxt-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI_%2F_Claude_APIs-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   </p>
 
 </div>
