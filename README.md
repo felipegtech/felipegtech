@@ -24,13 +24,13 @@
 
 ### Featured Engineering Projects
 
-| Project | Architecture & Focus | Tech Stack |
-| :--- | :--- | :--- |
-| **[monitoring-control-system](https://github.com/felipegtech/monitoring-control-system)** | Distributed telemetry & control server built from scratch with POSIX/Berkeley TCP sockets, custom application-layer protocol, Linux PAM authentication, and multi-client concurrency. | `C` `Linux` `TCP Sockets` `PAM` `Python` `Makefile` |
-| **[Todo-REST-API](https://github.com/felipegtech/Todo-REST-API)** | Production-structured REST API with layered repository/service architecture, relational persistence, external API integration, Docker Compose orchestration, and automated `pytest` suites. | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest` |
-| **[fullstack-weather-app](https://github.com/felipegtech/fullstack-weather-app)** | Containerized full-stack weather & alerting platform combining a FastAPI backend, Next.js TypeScript dashboard, PostgreSQL persistence, JWT auth, and Telegram Bot notifications. | `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker Compose` |
-| **[courseprojects](https://github.com/felipegtech/courseprojects)** | Full-stack web engineering monorepo featuring modular NestJS backend services, Dockerfiles, and reactive Vue/TypeScript frontends. | `TypeScript` `NestJS` `Vue.js` `Docker` `Node.js` |
-| **[DinoRun-Jack](https://github.com/felipegtech/DinoRun-Jack)** | Low-level 2D game engineered in the Jack object-oriented language targeting the Nand2Tetris Hack Virtual Machine architecture. | `Jack` `Hack VM` `Systems Architecture` |
+| Project | CI Status | Architecture & Focus | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| **[monitoring-control-system](https://github.com/felipegtech/monitoring-control-system)** | [![CI](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml) | Distributed telemetry & control server built from scratch with POSIX/Berkeley TCP sockets, custom application-layer protocol, Linux PAM authentication, and 33 automated socket integration tests. | `C11` `Linux` `TCP/UDP Sockets` `PAM` `Python` `GitHub Actions` |
+| **[Todo-REST-API](https://github.com/felipegtech/Todo-REST-API)** | [![CI](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml) | Production-structured REST API with layered repository/service architecture, relational persistence, external API integration, Docker Compose orchestration, and automated `pytest` coverage suites. | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest` |
+| **[fullstack-weather-app](https://github.com/felipegtech/fullstack-weather-app)** | `Dockerized` | Containerized full-stack weather & alerting platform combining a FastAPI backend, Next.js TypeScript dashboard, PostgreSQL persistence, JWT auth, and Telegram Bot notifications. | `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker Compose` |
+| **[courseprojects](https://github.com/felipegtech/courseprojects)** | `Dockerized` | Full-stack web engineering monorepo featuring modular NestJS backend services, Dockerfiles, and reactive Vue/TypeScript frontends. | `TypeScript` `NestJS` `Vue.js` `Docker` `Node.js` |
+| **[DinoRun-Jack](https://github.com/felipegtech/DinoRun-Jack)** | `Hack VM` | Low-level 2D game engineered in the Jack object-oriented language targeting the Nand2Tetris Hack Virtual Machine architecture. | `Jack` `Hack VM` `Systems Architecture` |
 
 ---
 
