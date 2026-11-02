@@ -10,11 +10,11 @@
   </p>
 
   <p>
-    <a href="[https://www.linkedin.com/in/felipegd99/](https://www.linkedin.com/in/felipegomez-tech/)" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Felipe_G%C3%B3mez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/felipegomez-tech/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-felipegomez--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:fegoda26@gmail.com">
-      <img src="https://img.shields.io/badge/Email-fegoda26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:felipegomezd9@gmail.com">
+      <img src="https://img.shields.io/badge/Email-felipegomezd9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
