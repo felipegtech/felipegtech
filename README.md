@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/felipegomez-tech/" target="_blank">
+    <a href="https://www.linkedin.com/in/felipe-gomez-daza/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-felipegomez--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:felipegomezd9@gmail.com">
