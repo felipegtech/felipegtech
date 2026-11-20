@@ -1,67 +1,134 @@
-<div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=640&lines=Felipe+G%C3%B3mez+Daza;Software+%26+Cloud%2FDevOps+Engineer;Backend+Systems+%E2%80%A2+Linux+%26+Containers+%E2%80%A2+Distributed+APIs" alt="Typing SVG" />
+# Felipe Gómez Daza
 
-  <h3>Software Engineer focused on Backend Architecture, Cloud/DevOps & Distributed Systems</h3>
+**Software Engineering | Backend Systems | Cloud & DevOps**
 
-  <p>
-    Building reliable backend services, containerized cloud architectures, and automated CI/CD pipelines.<br/>
-    Experienced across <strong>Python (FastAPI)</strong>, <strong>TypeScript (NestJS / Next.js / Nuxt)</strong>, <strong>Linux / C Systems Programming</strong>, and <strong>Docker / AWS</strong>.
-  </p>
+Software engineering focused on backend architecture, distributed systems, and cloud infrastructure.
 
-  <p<a href="https://www.linkedin.com/in/felipe-gomez-daza/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-    <a href="mailto:felipegomezd9@gmail.com">
-      <img src="https://img.shields.io/badge/Email-felipegomezd9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+Building reliable APIs, containerized applications, and automated CI/CD pipelines with an emphasis on maintainability, performance, and software quality.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gomez-daza/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:felipegomezd9@gmail.com)
 
 ---
 
-### Featured Engineering Projects
+## Engineering Focus
 
-| Project | CI Status | Architecture & Focus | Tech Stack |
-| :--- | :---: | :--- | :--- |
-| **[monitoring-control-system](https://github.com/felipegtech/monitoring-control-system)** | [![CI](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml) | Distributed telemetry & control server built from scratch with POSIX/Berkeley TCP sockets, custom application-layer protocol, Linux PAM authentication, and 33 automated socket integration tests. | `C11` `Linux` `TCP/UDP Sockets` `PAM` `Python` `GitHub Actions` |
-| **[Todo-REST-API](https://github.com/felipegtech/Todo-REST-API)** | [![CI](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml) | Production-structured REST API with layered repository/service architecture, relational persistence, external API integration, Docker Compose orchestration, and automated `pytest` coverage suites. | `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `Pytest` |
-| **[fullstack-weather-app](https://github.com/felipegtech/fullstack-weather-app)** | `Dockerized` | Containerized full-stack weather & alerting platform combining a FastAPI backend, Next.js TypeScript dashboard, PostgreSQL persistence, JWT auth, and Telegram Bot notifications. | `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Docker Compose` |
-| **[courseprojects](https://github.com/felipegtech/courseprojects)** | `Dockerized` | Full-stack web engineering monorepo featuring modular NestJS backend services, Dockerfiles, and reactive Vue/TypeScript frontends. | `TypeScript` `NestJS` `Vue.js` `Docker` `Node.js` |
-| **[DinoRun-Jack](https://github.com/felipegtech/DinoRun-Jack)** | `Hack VM` | Low-level 2D game engineered in the Jack object-oriented language targeting the Nand2Tetris Hack Virtual Machine architecture. | `Jack` `Hack VM` `Systems Architecture` |
+- Backend architecture and REST API development
+- Distributed systems and network programming
+- Cloud infrastructure and containerization
+- CI/CD automation and integration testing
+- Relational databases and data persistence
+- Linux systems and low-level programming
+
+## Selected Projects
+
+### [Distributed Monitoring & Control System](https://github.com/felipegtech/monitoring-control-system)
+
+[![CI](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/monitoring-control-system/actions/workflows/ci.yml)
+
+Distributed telemetry and control system implemented from scratch using POSIX sockets and a custom application-layer protocol.
+
+- TCP/UDP network communication
+- Linux PAM authentication
+- 33 automated socket integration tests
+- Continuous integration with GitHub Actions
+
+**Stack:** C11 · Linux · POSIX Sockets · PAM · Python
+
+### [Todo REST API](https://github.com/felipegtech/Todo-REST-API)
+
+[![CI](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml/badge.svg)](https://github.com/felipegtech/Todo-REST-API/actions/workflows/ci.yml)
+
+RESTful backend service designed around separation of concerns and maintainable application architecture.
+
+- Layered repository and service architecture
+- PostgreSQL persistence with SQLAlchemy
+- External API integration
+- Containerized environment and automated testing
+
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Docker · Pytest
+
+### [Weather & Alerting Platform](https://github.com/felipegtech/fullstack-weather-app)
+
+Containerized full-stack platform for weather monitoring and automated notifications.
+
+- FastAPI backend and Next.js frontend
+- JWT-based authentication
+- PostgreSQL data persistence
+- Telegram Bot notifications
+- Multi-container orchestration
+
+**Stack:** Python · FastAPI · TypeScript · Next.js · PostgreSQL · Docker Compose
+
+### [Full-Stack Engineering Projects](https://github.com/felipegtech/courseprojects)
+
+Collection of web engineering projects featuring modular backend services, reactive frontend applications, and containerized environments.
+
+**Stack:** TypeScript · NestJS · Vue.js · Node.js · Docker
+
+### [DinoRun — Hack Virtual Machine](https://github.com/felipegtech/DinoRun-Jack)
+
+Low-level 2D game implemented in Jack, targeting the Nand2Tetris Hack Virtual Machine architecture.
+
+**Stack:** Jack · Hack VM · Computer Architecture
 
 ---
 
-### Technical Stack
+## Technical Skills
 
-<div align="center">
+| Domain | Technologies |
+| :--- | :--- |
+| Programming Languages | Python, TypeScript, JavaScript, C, SQL, Bash |
+| Backend Engineering | FastAPI, NestJS, Node.js, REST APIs |
+| Cloud & DevOps | AWS, Docker, Docker Compose, GitHub Actions |
+| Systems & Networking | Linux, POSIX, TCP/IP, Socket Programming |
+| Databases | PostgreSQL, SQLAlchemy, Relational Modeling |
+| Frontend | Next.js, Vue.js, Nuxt |
+| Testing & Tooling | Pytest, Integration Testing, Git, CI/CD |
 
-  **Cloud, DevOps & Systems**
-  <p>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </p>
+## Technology Stack
 
-  **Backend & Data Engineering**
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  </p>
+**Languages**
 
-  **Frontend & AI Integrations**
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue.js_%2F_Nuxt-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI_%2F_Claude_APIs-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-</div>
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+**Cloud, DevOps & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=00DC82)
+
+---
+
+## Education
+
+**Universidad EAFIT** — Medellín, Colombia
+
+## Technical Interests
+
+Distributed Systems · Software Architecture · Cloud Computing ·
+Data Engineering · Infrastructure Automation · High-Performance Computing
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/felipe-gomez-daza/) ·
+[Email](mailto:felipegomezd9@gmail.com)
